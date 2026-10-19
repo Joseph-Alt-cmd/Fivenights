@@ -1,0 +1,27 @@
+
+
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: comic sans ms;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+    border: 2px solid;
+    border-image: linear-gradient(to top, #b90000b4 0%, #26003f 50%, #0000fffa 100%) 1;
+}
+
+.page-link{
+    display: inline-block;
+    padding: 8px 14px;
+    background-color: #26003f;
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+}
+
+.page-link:hover,
+.page-link:focus{
+    background-color: #0000ff;
+    text-decoration: underline;
+}
