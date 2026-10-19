@@ -11,10 +11,10 @@
         <h1>Welcome to My Megaman X Website</h1>
         <p>X and Zero need your help.</p>
     </div>
-    <img src="image/MegamanX.png" alt="Megaman X">
+    <img src="image/MegamanX.png" alt="Megaman X" width="300" height="290">
     <p><a class="page-link" href="otherpage/html2">X Page</a></p>
-    
-    <img src="image/ZeroMMX.jpg" alt="Zero">
+    <br>
+    <img src="image/ZeroMMX.jpg" alt="Zero" width="300" height="290">
     <p><a class="page-link" href="otherpage/html3">Zero Page</a></p>
 </body>
 </html>
